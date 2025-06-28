@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>5 Kebiasaan Pagi yang Bikin Harimu Produktif - ili.web.id</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-gray-800 font-sans">
+  <div class="max-w-3xl mx-auto py-10 px-4">
+    <header class="mb-6">
+      <h1 class="text-3xl font-bold text-blue-700">5 Kebiasaan Pagi yang Bikin Harimu Produktif</h1>
+      <p class="text-sm text-gray-500">Dipublikasikan di ili.web.id</p>
+    </header>
+
+    <article class="space-y-5">
+      <p>Memulai hari dengan kebiasaan positif bisa meningkatkan produktivitas dan suasana hati sepanjang hari. Berikut lima kebiasaan pagi yang bisa kamu coba:</p>
+
+      <h2 class="text-xl font-semibold">1. Bangun Lebih Awal</h2>
+      <p>Bangun sekitar pukul 5 atau 6 pagi memberi waktu tambahan untuk mempersiapkan diri secara mental dan fisik sebelum memulai aktivitas.</p>
+
+      <h2 class="text-xl font-semibold">2. Minum Air Putih</h2>
+      <p>Minum segelas air putih setelah bangun tidur membantu mengaktifkan metabolisme dan mengganti cairan tubuh yang hilang selama tidur.</p>
+
+      <h2 class="text-xl font-semibold">3. Olahraga Ringan</h2>
+      <p>Melakukan aktivitas fisik seperti peregangan, yoga, atau jalan pagi bisa meningkatkan energi dan fokus.</p>
+
+      <h2 class="text-xl font-semibold">4. Sarapan Sehat</h2>
+      <p>Sarapan dengan gizi seimbang penting untuk mendukung aktivitas harian dan menjaga konsentrasi.</p>
+
+      <h2 class="text-xl font-semibold">5. Susun Prioritas Harian</h2>
+      <p>Tentukan tujuan utama harian dan catat daftar tugas agar waktu digunakan dengan lebih efisien dan produktif.</p>
+
+      <p>Perubahan kecil di pagi hari bisa memberikan dampak besar dalam jangka panjang. Konsistensi adalah kunci dari kesuksesan kebiasaan positif.</p>
+    </article>
+
+    <footer class="mt-10 text-center text-sm text-gray-500">
+      &copy; 2025 ili.web.id - Blog harian inspiratif dalam bahasa Indonesia dan Sunda.
+    </footer>
+  </div>
+</body>
+</html>
