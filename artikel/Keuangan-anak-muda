@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cara Mengatur Keuangan untuk Anak Muda - ili.web.id</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-gray-800 font-sans">
+  <div class="max-w-3xl mx-auto py-10 px-4">
+    <header class="mb-6">
+      <h1 class="text-3xl font-bold text-blue-700">Cara Mengatur Keuangan untuk Anak Muda</h1>
+      <p class="text-sm text-gray-500">Dipublikasikan di ili.web.id</p>
+    </header>
+
+    <article class="space-y-5">
+      <p>Mengelola keuangan sejak muda adalah langkah bijak untuk masa depan yang lebih cerah. Berikut beberapa tips yang bisa diterapkan oleh anak muda agar tidak boros dan lebih siap secara finansial:</p>
+
+      <h2 class="text-xl font-semibold">1. Buat Anggaran Bulanan</h2>
+      <p>Tuliskan semua pemasukan dan pengeluaran setiap bulan. Dengan begitu, kamu bisa tahu ke mana uangmu pergi dan bisa mengontrol pengeluaran yang tidak perlu.</p>
+
+      <h2 class="text-xl font-semibold">2. Sisihkan untuk Tabungan</h2>
+      <p>Setiap kali menerima penghasilan, sisihkan minimal 10–20% untuk ditabung terlebih dahulu sebelum membelanjakan sisanya.</p>
+
+      <h2 class="text-xl font-semibold">3. Hindari Gaya Hidup Konsumtif</h2>
+      <p>Jangan terjebak dengan tren atau gengsi. Belanja hanya untuk kebutuhan, bukan keinginan semata.</p>
+
+      <h2 class="text-xl font-semibold">4. Gunakan Aplikasi Keuangan</h2>
+      <p>Manfaatkan aplikasi pencatat keuangan untuk membantu mencatat pengeluaran dan menganalisis kebiasaan finansial kamu.</p>
+
+      <h2 class="text-xl font-semibold">5. Investasi Sejak Dini</h2>
+      <p>Pelajari instrumen investasi seperti reksa dana, saham, atau emas. Mulailah dari nominal kecil dan terus belajar.</p>
+
+      <p>Mengatur keuangan bukan soal seberapa besar penghasilan, tapi seberapa bijak kamu mengelolanya. Mulailah dari sekarang!</p>
+    </article>
+
+    <footer class="mt-10 text-center text-sm text-gray-500">
+      &copy; 2025 ili.web.id - Blog harian inspiratif dalam bahasa Indonesia dan Sunda.
+    </footer>
+  </div>
+</body>
+</html>
