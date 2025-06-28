@@ -1,2 +1,2 @@
-# blog-kangili
-Sagalana Ku Rasa
+# Web-kangili
+Portal informasi harian & inspiratif
