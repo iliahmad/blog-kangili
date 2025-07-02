@@ -99,22 +99,18 @@
   </p>
 
   <!-- Komentar Disqus -->
-  <div id="disqus_thread" class="mt-10"></div>
-  <script>
-    var disqus_config = function () {
-      this.page.url = 'https://ili.web.id/web3-dijelaskeun-lengkap.html';
-      this.page.identifier = 'web3-dijelaskeun-lengkap';
-    };
+  <div id="disqus_thread"></div>
+<script>
+  var disqus_config = function () {
+    this.page.url = 'https://ili.web.id/web3-dijelaskeun-lengkap.html';
+    this.page.identifier = 'web3-dijelaskeun-lengkap';
+  };
 
-    (function() {
-      var d = document, s = d.createElement('script');
-      s.src = 'https://iliwebid.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
-    })();
-  </script>
-  <noscript>
-    Mangga aktipkeun JavaScript pikeun ningali koméntar.
-  </noscript>
-</body>
-</html>
+  (function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://ili-web-id.disqus.com/embed.js';  // ✅ Pake shortname anu bener
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Mangga aktipkeun JavaScript pikeun ningali koméntar powered by <a href="https://disqus.com/?ref_noscript">Disqus</a>.</noscript>
